@@ -10,8 +10,8 @@
     ## from your switch.
 
 main:
-  name: "Aruba2930F SSH NoEnable"
-  desc: "Aruba2930F SSH NoEnable"
+  name: "Aruba2930F SSH NoEnable (legacy)"
+  desc: "Aruba2930F SSH NoEnable (legacy)"
 connect:
   # connection timeout in seconds
   timeout: 5
